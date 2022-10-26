@@ -1,3 +1,4 @@
 {
-  "/page": "app/page.js"
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/settings/password/change/page": "app/dashboard/settings/password/change/page.js"
 }
